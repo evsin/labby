@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* top */
+#top{width: 100%; overflow:hidden;height:auto;}
+.top_in{ padding: 25px; margin: 0 auto;width: 100%;height:auto;}
+.logo_r .phone{width: 100%; display:none;}
+.top_in .logo_r{width:100%;height: auto; float:right; margin: 0;line-height: 30px;}
+.logo{ width: 100%;margin:0}
+.logo_r .nav{width: 100%;height: auto;}
+.logo_r li{width: 12%;margin: 0; float:left; height: auto;min-width: 10%;}
+
+/* banner */
+#banner{width: 100%;height: auto; overflow:hidden}
+
+/* con */
+#con{overflow:hidden; height:auto}
+#con .con_in{width: 100%; height:auto	;float:left;}
+#con .news{width: 30%;padding-left: 20px; float:left; overflow:hidden}
+#con .news dt{width: 98%;}
+#con .news dd{width: 98%;margin:0 auto;line-height: 30px;height: auto;}
+#con .service{width: 66%; height:auto; margin: 0; float:left}
+#con .service dl{width: 100%; height:auto; margin: 0;overflow:hidden;}
+#con .service dt{width: 98%;height:29px;}
+#con .service dd{width: 47%;height: auto; margin:0;margin-top: 10px;margin-left: 10px;}
+#con .mask{ display:none}
+#con .contact{width: 100%; height:auto; margin: 0; overflow:hidden; float:left;margin-top: 30px;}
+#con .contact dt{width: 95%; height:29px;margin-left: 20px;}
+#con .contact dd{width: 100%; height:auto;}
+#con .contact dd a{width: 40%; float:left; margin-left: 20px;}
+#con .contact ul{width: 50%; height:auto; float:left; margin-top: 0;}
+
+/* friend */
+#friend{width: 95%;}
+#friend .friend_in{width: 95%; margin: 0 auto;}
+
+#footer{width: 100%;}
+.footer_in{width: 95%;margin: 0 auto;}
+.footer_in .copy{ display:none}
+.footer_in .footer_l{margin-left:20%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
